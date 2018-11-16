@@ -510,6 +510,10 @@
 .devicon-sass-plain-wordmark.colored {
 	color: #cc6699;
 }
+.devicon-sqlite-plain-wordmark.colored,
+.devicon-sqlite-plain.colored {
+    color: #003B57;
+}
 .devicon-sequelize-original-wordmark.colored,
 .devicon-sequelize-plain-wordmark.colored,
 .devicon-sequelize-original.colored,

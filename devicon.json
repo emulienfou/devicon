@@ -760,6 +760,14 @@
     }
   },
   {
+    "name": "sqlite",
+    "tags": ["database", "language"],
+    "versions": {
+      "svg": ["plain", "plain-wordmark"],
+      "font": ["plain", "plain-wordmark"]
+    }
+  },
+  {
     "name": "sequelize",
     "tags": ["database", "language"],
     "versions": {
